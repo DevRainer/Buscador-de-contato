@@ -1,28 +1,29 @@
-📇 Buscador de Contato
-Um projeto simples em HTML/CSS/JS para buscar contatos de forma prática e rápida.
+# 📇 Buscador de Contato
 
-🚀 Funcionalidades
-Busca por nome: encontre contatos digitando parte ou o nome completo.
+Um projeto simples em **HTML/CSS/JS** para buscar contatos de forma prática e rápida.  
 
-Interface simples: layout limpo e fácil de usar.
+## 🚀 Funcionalidades
+- Busca por nome
+- Filtro dinâmico em tempo real
+- Interface simples e intuitiva
+- Lista organizada de contatos
 
-Lista de contatos: organizada e acessível para consulta rápida.
+## 🛠️ Tecnologias utilizadas
+- HTML
+- CSS
+- JavaScript
 
-🛠️ Tecnologias utilizadas
-HTML para estrutura
+## 📂 Como usar
+1. Clone este repositório.  
+2. Abra o arquivo `index.html` em seu navegador.  
+3. Digite o nome do contato na barra de busca.  
+4. Veja os resultados filtrados instantaneamente.  
 
-CSS para estilização
+## 📸 Screenshots
+Aqui está uma prévia da aplicação em funcionamento:
 
-JavaScript para lógica de busca
+![Screenshot do Buscador de Contato](assets/img/screenshot.png)
 
-📂 Como usar
-Clone este repositório.
+---
 
-Abra o arquivo index.html em seu navegador.
 
-Digite o nome do contato na barra de busca.
-
-Veja os resultados filtrados instantaneamente.
-
-🎯 Objetivo
-Este projeto foi desenvolvido para fins educacionais e prática com HTML/CSS/JS, explorando manipulação de listas e filtros em tempo real.
