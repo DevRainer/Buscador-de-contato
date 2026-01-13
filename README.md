@@ -22,7 +22,7 @@ Um projeto simples em **HTML/CSS/JS** para buscar contatos de forma prática e r
 ## 📸 Screenshots
 Aqui está uma prévia da aplicação em funcionamento:
 
-![Screenshot do Buscador de Contato](assets/img/screenshot.png)
+![Screenshot do Buscador de Contato](assets/image2.png)
 
 ---
 
