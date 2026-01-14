@@ -1,26 +1,34 @@
-# 📇 Buscador de Contato
+# 📇 Contact Search Tool
 
-Um projeto simples em **HTML/CSS/JS** para buscar contatos de forma prática e rápida.  
+A lightweight and efficient web application built with vanilla technologies to search and filter contacts in real-time. This project focuses on **DOM manipulation** and **dynamic filtering algorithms** using JavaScript.
 
-## 🚀 Funcionalidades
-- Busca por nome
-- Filtro dinâmico em tempo real
-- Interface simples e intuitiva
-- Lista organizada de contatos
+### 🚀 Features
 
-## 🛠️ Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
+**Real-time Search:** Instant filtering as you type.
 
-## 📂 Como usar
-1. Clone este repositório.  
-2. Abra o arquivo `index.html` em seu navegador.  
-3. Digite o nome do contato na barra de busca.  
-4. Veja os resultados filtrados instantaneamente.  
+**Dynamic UI:** Responsive and intuitive interface for a better user experience.
+
+**Performance:** Optimized for quick data rendering without external libraries.
+
+### 🛠️ Tech Stack
+
+** 🟧 HTML5** - Structure and semantic layout.
+
+** 🟦 CSS3** - Custom styling and responsive design.
+
+** 🟨 JavaScript (ES6+)** - Core logic and dynamic filtering.
+
+📂 How to Use
+Clone this repository.
+
+Open the index.html file in your web browser.
+
+Type the contact name in the search bar.
+
+See the results filtered instantly.
 
 ## 📸 Screenshots
-Aqui está uma prévia da aplicação em funcionamento:
+Here is a preview of the application in action:
 
 ![Screenshot do Buscador de Contato](assets/image2.png)
 
